@@ -47,7 +47,7 @@ Before you begin, ensure you have the following installed:
 
 1. Clone this repository to your local machine using:
    ```
-   git clone https://github.com/lakshmi1005/UI-kjd.git
+   git clone https://github.com/lakshmi1005/lakshmi-UI-kjd.git
    ```
 
 2. Open the project folder in Visual Studio Code.
@@ -81,5 +81,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or suggestions regarding this project, please contact us at lakshmi1005@ui-kjd-project.com or open an issue in this repository.
+If you have any questions or suggestions regarding this project, please contact us at lakshmi1005@lakshmi-UI-kjd-project.com or open an issue in this repository.
 
